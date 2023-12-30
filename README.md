@@ -1,2 +1,2 @@
-# project1SRK
-Loan Status Approval
+# project1SRK: Loan Status Approval
+Implemented Using Crisp DM Methodology
